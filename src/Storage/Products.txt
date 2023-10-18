@@ -1,0 +1,3 @@
+id = 1, name = Coca-cola, rate = 5.0, description = A good drink!, isFragile = true, price = 100
+id = 2, name = Pepsi, rate = 5.0, description = Another good drink!, isFragile = true, price = 150
+id = 4, name = Juice, rate = 10.0, description = A very good drink, isFragile = false, price = 15

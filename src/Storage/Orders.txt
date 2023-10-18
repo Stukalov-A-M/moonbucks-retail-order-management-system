@@ -1,0 +1,6 @@
+id = 1, customerId = 1, numberOfItems = 30, orderPrice = 4800.0, orderItems = [OrderItems:
+product=id = 1, name = Coca-cola, rate = 5.0, description = A good drink!, isFragile = true, price = 100, quantity=10, priceAmount=1200.0, fragileOvercharge=20.0, OrderItems:
+product=id = 4, name = Juice, rate = 10.0, description = A very good drink, isFragile = false, price = 15, quantity=31, priceAmount=465.0, fragileOvercharge=0.0]
+id = 2, customerId = 2, numberOfItems = 11, orderPrice = 825.0, orderItems = [OrderItems:
+product=id = 1, name = Coca-cola, rate = 5.0, description = A good drink!, isFragile = true, price = 100, quantity=10, priceAmount=1200.0, fragileOvercharge=20.0, OrderItems:
+product=id = 4, name = Juice, rate = 10.0, description = A very good drink, isFragile = false, price = 15, quantity=7, priceAmount=105.0, fragileOvercharge=0.0]
